@@ -1,7 +1,14 @@
-# Trading_StockPrice
-Here in this code below 
-"Index.html" has "styles.css" as it's css file and also the code only shows the graph for 5 minutes interval of the opening and closing price.
-In the HTML code "Test1.html"  i used css code "style.css" and it has two options of showing the graph for 5minutes or 1 day interval for the opening and closing price.
-So the final code is Test1.html and style.css
+# Stock Price Trading Visualization
+A web app that visualizes stock prices using real-time data fetched from an API, with options for 5-minute or 1-day intervals showing the opening and closing prices.
 
+****Files****
+**Test1.html:** Main file with API integration, offering 5-minute or 1-day interval graphs.
+**style.css:** CSS for styling Test1.html.
+**index.html:** Legacy version with only a 5-minute interval.
+**styles.css:** Legacy CSS for index.html.
+
+****Features****
+Real-time stock data fetched from an API.
+Select between 5-minute and 1-day intervals.
+Clean, responsive interface.
       -Abijith U K
